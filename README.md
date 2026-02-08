@@ -37,3 +37,27 @@ It includes service listings, testimonials, call-to-action sections, and a fully
 ---
 
 ## 📂 Project Structure
+│
+├── index.html
+├── assest/
+│ ├── css/
+│ │ └── home.css
+│ ├── js/
+│ │ └── script.js
+│ └── img/
+│ └── (all images)
+│
+└── README.md
+🎯 Purpose of the Project
+
+Practice front-end development skills
+
+Improve responsive design implementation
+
+Build a professional portfolio project
+
+Demonstrate UI/UX and layout structuring skills
+🧑‍💻 Author
+
+Ayesha Awan
+Front-End Developer
