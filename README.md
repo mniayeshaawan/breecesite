@@ -1,4 +1,4 @@
-# breecesite
+# Breecesite
 A responsive and modern business website clone created for **Cherniak Home Services**.  
 This project focuses on clean UI design, mobile responsiveness, and structured layout using HTML, CSS, and Bootstrap.
 
